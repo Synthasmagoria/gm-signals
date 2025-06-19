@@ -8,3 +8,5 @@ Then add a signal to an instance using signal_add().
 Connect to the signal from another instance with signal_connect() or signal_connect_user_event().
 
 Emit the signal in from the instance owning the signal with signal_emit().
+
+As featured in: https://youtu.be/B_rbNxNllgA
